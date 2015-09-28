@@ -7,3 +7,6 @@ Telf
 Edad
 Año 2015
 Fecha nacimiento
+Dia de la semana Lunes
+Mes
+hora
